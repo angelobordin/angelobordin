@@ -1,5 +1,5 @@
-# Hello! Welcome to my Github profile.
-## My name is Angelo Bordin.
+## Hello! Welcome to my Github profile.
+### My name is Angelo Bordin.
 
 I am a Brazilian junior full stack developer, and a entusiast of culture devOps.<br>
 My fisrt language is portugues. I speak english, but i do not speak fluently.<br>
