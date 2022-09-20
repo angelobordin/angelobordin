@@ -26,7 +26,7 @@ Currenctly i work with nodejs, typescript and angular.
 <br/>
 
 <div>
-<a href="https://github.com/angelobordin">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelobordin&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelobordin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/angelobordin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelobordin&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=angelobordin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
