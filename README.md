@@ -1,7 +1,7 @@
 # Angelo Bordin
 
 I am a Brazilian junior full stack developer, and a entusiast of culture devOps.<br>
-Currenctly i work with nodejs, typescript and angular.
+Currenctly I work with nodejs, typescript and angular.
 
 🌱 **I’m currently learning devOps and delivery continues.**
 
