@@ -1,6 +1,6 @@
 # Angelo Bordin
 
-Olá, eu sou um desenvolvedor Full Stack em construção, pois tenho um melhor entendimento da parte de Back-End. Hoje estou estudando frameworks e tecnologias de Front-End para me aprimorar nesta área.<br>
+Olá, eu sou um desenvolvedor Full Stack, tenho um melhor entendimento da parte de Back-End. Hoje estou estudando frameworks e tecnologias de Front-End para me aprimorar nesta área.<br>
 De uma olhada nos meu repositórios e verá todo meu estudo e meu conhecimento aplicado.<br>
 <br>
 📫 How to reach me:<br/>
