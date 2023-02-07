@@ -1,10 +1,8 @@
 # Angelo Bordin
 
-I am a Brazilian junior full stack developer, and a entusiast of culture devOps.<br>
-Currenctly I work with nodejs, typescript and angular.
-
-🌱 **I’m currently learning devOps and delivery continues.**
-
+Olá, eu sou um desenvolvedor Full Stack em construção, pois tenho um melhor entendimento da parte de Back-End. Hoje estou estudando frameworks e tecnologias de Front-End para me aprimorar nesta área.<br>
+De uma olhada nos meu repositórios e verá todo meu estudo e meu conhecimento aplicado.<br>
+<br>
 📫 How to reach me:<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-bordin/)](https://www.linkedin.com/in/angelo-bordin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:angelombordin@gmail.com)](mailto:angelombordin@gmail.com)
