@@ -31,3 +31,5 @@ De uma olhada nos meu repositórios e verá todo meu estudo e meu conhecimento a
   <img height="180em" style="width: 49%; float: left; margin: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelobordin&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" style="width: 49%; float: right; margin: none;" src="https://github-readme-stats.vercel.app/api?username=angelobordin&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 </div>
+
+![snake gif](https://github.com/angelobordin/angelobordin/blob/output/github-contribution-grid-snake.svg)
