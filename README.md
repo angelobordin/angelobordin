@@ -57,4 +57,4 @@ De uma olhada nos meus repositórios e verá todo meu estudo e meu conhecimento 
   <img height="180em" style="width: 49%; float: right; margin: none;" src="https://github-readme-stats.vercel.app/api?username=angelobordin&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 </div>
 
-![snake gif](https://github.com/angelobordin/angelobordin/blob/output/github-contribution-grid-snake.svg)
+
