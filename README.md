@@ -6,7 +6,7 @@ De uma olhada nos meus repositórios e verá todo meu estudo e meu conhecimento 
 <br>
 📫 How to reach me:<br/>
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=for-the-badge&logo=Whatsapp&logoColor=white&link=https://www.wa.link/i7c3c5)](https://www.wa.link/i7c3c5)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-bordin/)](https://www.linkedin.com/in/angelo-bordin/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelobordin/)](https://www.linkedin.com/in/angelobordin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:angelombordin@gmail.com)](mailto:angelombordin@gmail.com)
 
 ### Technologies And Frameworks
