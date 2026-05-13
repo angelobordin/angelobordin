@@ -1,60 +1,27 @@
-# Angelo Bordin
+### Angelo Bordin
 
-Olá, eu sou um programador Full Stack, e tenho um maior conhecimento com código Back-End.<br> 
-Hoje estou estudando frameworks e tecnologias de Front-End para me aprimorar nesta área.<br>
-De uma olhada nos meus repositórios e verá todo meu estudo e meu conhecimento aplicado.<br>
-<br>
-📫 How to reach me:<br/>
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=for-the-badge&logo=Whatsapp&logoColor=white&link=https://www.wa.link/i7c3c5)](https://www.wa.link/i7c3c5)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelobordin/)](https://www.linkedin.com/in/angelobordin/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:angelombordin@gmail.com)](mailto:angelombordin@gmail.com)
+Software engineer focused on building production systems for AI applications — currently working on data protection and security tooling for LLM-based products.
 
-### Technologies And Frameworks
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"  width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" width="40" height="40"/>
-</div>
+---
 
-### Back End
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-</div>
+#### What I'm working on
 
-### Front End
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
-</div>
+- **Nightwall** — DLP (Data Loss Prevention) for LLM applications. Intercepts prompts and responses to detect, redact, and audit sensitive data before it leaves the perimeter.
+- Open-source experiments around prompt firewalls, PII redaction, evals, and LLM observability. New repos landing here over the next weeks.
 
-### Data
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</div>
-<br/>
+#### Currently working with
 
-<div>
-  <a href="https://github.com/angelobordin">
-  <img height="180em" style="width: 49%; float: left; margin: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelobordin&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" style="width: 49%; float: right; margin: none;" src="https://github-readme-stats.vercel.app/api?username=angelobordin&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-</div>
+TypeScript · Node.js · Python · Postgres · Docker · AWS · OpenAI / Anthropic APIs
 
+#### Reach me
 
+- LinkedIn: [angelobordin](https://www.linkedin.com/in/angelobordin/)
+- X / Twitter: [@oangelobordin](https://twitter.com/oangelobordin)
+- Site: [angelomurielbordin.com.br](https://www.angelomurielbordin.com.br)
+- Email: angelombordin@gmail.com
+
+---
+
+<a href="https://github.com/angelobordin">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=angelobordin&show_icons=true&hide=issues&theme=transparent&include_all_commits=true&count_private=false&hide_border=true" />
+</a>
