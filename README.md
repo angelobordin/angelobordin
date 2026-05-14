@@ -14,11 +14,13 @@ Software engineer focused on production systems for AI applications. Currently b
 
 🛡️ **Nightwall** — DLP (Data Loss Prevention) for LLM applications. Intercepts prompts and responses to detect, redact, and audit sensitive data before it leaves the perimeter.
 
-🧪 Open-source experiments around prompt firewalls, PII redaction, evals, and LLM observability. New repos landing here over the next weeks.
+💬 **[chat.io](https://github.com/angelobordin/chat.io)** — realtime 1-on-1 chat with a live outbound DLP guard. NestJS + Connect-RPC + Socket.IO + MySQL. Live demo of the Nightwall product.
+
+🧪 More open-source experiments around prompt firewalls, PII redaction, evals, and LLM observability landing here over the next weeks.
 
 ### Stack
 
-`TypeScript` · `Node.js` · `Python` · `Postgres` · `Docker` · `AWS` · `OpenAI / Anthropic APIs`
+`TypeScript` · `Node.js` · `Python` · `MySQL` · `Postgres` · `Docker` · `AWS` · `OpenAI / Anthropic APIs`
 
 ### Reach me
 
