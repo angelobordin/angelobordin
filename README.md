@@ -16,6 +16,8 @@ Software engineer focused on production systems for AI applications. Currently b
 
 💬 **[chat.io](https://github.com/angelobordin/chat.io)** — realtime 1-on-1 chat with a live outbound DLP guard. NestJS + Connect-RPC + Socket.IO + MySQL. Live demo of the Nightwall product.
 
+🏦 **[ledger](https://github.com/angelobordin/ledger)** — fintech bank-statement ingestion platform. Java 21 + Spring Boot 3 with hexagonal architecture. Uses S3 pre-signed URLs for direct uploads, SQS with DLQ for async processing, SNS for event fan-out, and DynamoDB for monthly category aggregates. Postgres + Flyway for transactional data, LocalStack via docker-compose for local dev.
+
 🚧 More open-source projects landing here over the next weeks — Java backends, AI tooling, and infra demos.
 
 ### Stack
